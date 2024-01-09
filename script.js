@@ -51,7 +51,8 @@ let importantData =
 console.log(importantData);
 
 // Error 12:
-tryToCallFunction();
+// There is no function to call. It doesn't exist.
+//tryToCallFunction();
 
 // Error 13:
 let user = { namee: "Alice" };
