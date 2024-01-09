@@ -39,7 +39,7 @@ console.log("Sum is: " + (number1 + number2));
 
 // Error 9:
 let nullVar = null;
-console.log(nullVar.length);
+console.log(nullVar);
 
 // Error 10:
 let caseSensitiveVar = "Case matters";
