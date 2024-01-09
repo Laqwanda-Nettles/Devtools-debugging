@@ -67,8 +67,7 @@ let greeting = "Hello, world!";
 console.log(greeting);
 
 // Error 16:
-for (let i = 0; i < 5; i++);
-{
+for (let i = 0; i < 5; i++) {
   console.log(i);
 }
 
