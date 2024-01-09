@@ -21,9 +21,9 @@ function displayOutput() {
 // Error 6: Misusing variable scope
 function updateMessage() {
   let localMessage = "Updated message";
+  console.log(localMessage);
 }
 updateMessage();
-console.log(localMessage);
 
 // Error 7:
 document.getElementById("testButton").addEventListener("click", testFunction());
