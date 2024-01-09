@@ -3,7 +3,7 @@ let message = 'Welcome to the debugging exercise!';
 console.log(message); 
 
 // Error 2: 
-let button = document.querySelector('.actionButton'); 
+let button = document.querySelector('#actionButton'); 
 button.addEventListener('click', eventHandler); 
 
 // Error 3: 
