@@ -62,7 +62,7 @@ let someNumber = 123;
 console.log(someNumber.toUpperCase()); 
 
 // Error 15: 
-let greeting = Hello, world!;
+let greeting = "Hello, world!";
 
 // Error 16: 
 for (let i = 0; i < 5; i++); {
