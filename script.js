@@ -43,7 +43,7 @@ console.log(nullVar);
 
 // Error 10:
 let caseSensitiveVar = "Case matters";
-console.log(CaseSensitiveVar);
+console.log(caseSensitiveVar);
 
 // Error 11:
 let importantData =
