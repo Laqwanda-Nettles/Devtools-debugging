@@ -48,7 +48,7 @@ console.log(caseSensitiveVar);
 // Error 11:
 let importantData =
   "This string must be logged to the console. It's important!";
-console.log("importantData");
+console.log(importantData);
 
 // Error 12:
 tryToCallFunction();
