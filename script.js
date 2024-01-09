@@ -87,7 +87,7 @@ numbers.push(1);
 console.log(numbers);
 
 // Error 19:
-x = 5;
+let x = 5;
 console.log(x);
 
 // Error 20:
