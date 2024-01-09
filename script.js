@@ -35,7 +35,7 @@ function testFunction() {
 // Error 8:
 let number1 = 10;
 let number2 = 5;
-console.log("Sum is: " + (number1 - number2));
+console.log("Sum is: " + (number1 + number2));
 
 // Error 9:
 let nullVar = null;
