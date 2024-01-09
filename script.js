@@ -55,7 +55,7 @@ console.log(importantData);
 //tryToCallFunction();
 
 // Error 13:
-let user = { namee: "Alice" };
+let user = { name: "Alice" };
 console.log(user.name);
 
 // Error 14:
