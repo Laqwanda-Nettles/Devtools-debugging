@@ -26,7 +26,7 @@ function updateMessage() {
 updateMessage();
 
 // Error 7:
-document.getElementById("testButton").addEventListener("click", testFunction());
+document.getElementById("testButton").addEventListener("click", testFunction);
 
 function testFunction() {
   console.log("Test function executed");
@@ -92,5 +92,5 @@ console.log(x);
 
 // Error 20:
 let myString = "Hello";
-myString.property = "World";
-console.log(myString.property);
+myString = "World";
+console.log(myString);
