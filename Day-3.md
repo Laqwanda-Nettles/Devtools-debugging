@@ -29,7 +29,7 @@ Placed a breakpoint on line 59.
 Task 19: Nebula  
 Placed breakpoints on lines 71 and 74, but it can also just be placed on line 74 alone.
 
-Task 20: Zenith
+Task 20: Zenith  
 Placed breakpoint on line 87.
 
 To Find the secret messages, I tracked the variables secretMessage and i with Watch.
