@@ -22,7 +22,7 @@ In this README.md file, document each problem. Write a sentence for each problem
 
 #### Problem 2:
 
-- Description: I don't think there's a problem but maybe change the alt attribute from "Large Image" to "placeholder image" or the size of the image.
+- Description: The image doesn't have a set width or height.
 
 #### Problem 3:
 
@@ -42,7 +42,7 @@ In this README.md file, document each problem. Write a sentence for each problem
 
 #### Problem 7:
 
-- Description: Its using a CSS selector - img#largeImage
+- Description: Its using a CSS selector - img#largeImage. The image is too large causing a layout shift.
 
 #### Problem 8:
 
@@ -54,7 +54,7 @@ In this README.md file, document each problem. Write a sentence for each problem
 
 #### Problem 10:
 
-- Description: The code doesn't really serve a purpose. Althought it's variable is used for problem 11.
+- Description: The for loop is too long. It hindering everything else until it's finished.
 
 #### Problem 11:
 
@@ -70,7 +70,7 @@ For each identified problem, propose a solution or an optimization strategy. Bri
 
 #### Problem 2:
 
-- Solution: Run Lighthouse and network to see if the image has issues performance wise.
+- Solution: Run Lighthouse and network to see if the image has any issues. Add width and height.
 
 #### Problem 3:
 
@@ -86,11 +86,11 @@ For each identified problem, propose a solution or an optimization strategy. Bri
 
 #### Problem 6:
 
-- Solution: Remove
+- Solution: Remove code.
 
 #### Problem 7:
 
-- Solution: Remove the img from img#largeImage.
+- Solution: Remove the img from img#largeImage. Add a resonable width and height.
 
 #### Problem 8:
 
@@ -102,7 +102,7 @@ For each identified problem, propose a solution or an optimization strategy. Bri
 
 #### Problem 10:
 
-- Solution: It didn't have any problems
+- Solution: Shorten how long the condition loops.
 
 #### Problem 11:
 
@@ -110,4 +110,4 @@ For each identified problem, propose a solution or an optimization strategy. Bri
 
 ### Step 4: Reflect
 
-There are a lot things that I need to work on. I don't fully understand the jquery or problem 9. However, I found running the lighthouse audit to be helpful and pick up some errors and performance issues.
+There are a lot things that I need to work on. I don't fully understand the jquery or problem 9. However, I found running the lighthouse audit to be helpful and pick up some errors and performance issues. Having a better understanding of devtools is like having a good cheat sheet explaining why some code and errors behave the way they do.
